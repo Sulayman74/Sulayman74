@@ -5,11 +5,15 @@
 Je suis un concepteur développeur web et web mobile passionné ayant récemment terminé une formation de 11 mois pour obtenir un titre diplômant de niveau 6 (Bac +3/Bac +4) : Concepteur Développeur d'Application web/mobile. Au cours de cette formation, j'ai travaillé avec les technologies suivantes :
 
 - HTML/CSS (SCSS)
--  Javascript
+- Javascript
+- TypeScript
 - Node.js
 - Express.js
-- Angular
+- Nest.js
+- Angular 14-6
 - PostgreSQL
+- Prisma
+- Git
 
 Je suis actuellement à la recherche d'un poste de développeur web ou web mobile pour mettre en pratique mes compétences et continuer à développer mes connaissances.
 
@@ -20,6 +24,7 @@ Je suis actuellement à la recherche d'un poste de développeur web ou web mobil
 - Base de données avec PostgreSQL
 
 ### Réseaux sociaux
-* Twitter : @SirikoneK
+* X : @SirikoneK
 * Linkedin : https://www.linkedin.com/in/sirikone-keohavong
 * Web resume/CV : https://sirikonekeohavong.netlify.app
+* Gitlab : https://gitlab.com/Sulayman74
