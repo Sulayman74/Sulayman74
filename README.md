@@ -10,7 +10,7 @@ Je suis un concepteur développeur web et web mobile passionné ayant récemment
 - Node.js
 - Express.js
 - Nest.js
-- Angular 14-6
+- Angular 14-16
 - PostgreSQL
 - Prisma
 - Git
