@@ -1,10 +1,11 @@
 ### Hello World!!! 👋🌍
 
 
-## Keohavong Sirikone -Concepteur Développeur d'Application Web et Web Mobile
+## Keohavong Sirikone Concepteur Développeur d'Application Web et Web Mobile
 Je suis Concepteur Développeur d'Application web et web mobile passionné ayant récemment terminé une formation de 11 mois (2023) pour obtenir un titre diplômant de niveau 6 (Bac +3/Bac +4) : Concepteur Développeur d'Application web/mobile. Au cours de cette formation, j'ai travaillé avec les technologies suivantes :
 
 - HTML/CSS (SCSS)
+- Tailwind css
 - Javascript
 - TypeScript
 - Node.js
