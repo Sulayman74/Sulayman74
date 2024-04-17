@@ -24,7 +24,10 @@ Je suis actuellement à la recherche d'un poste de développeur web ou web mobil
 
 - Base de données relationnelle avec PostgreSQL et ORM Prisma
 
+### Portfolio
+* Keohavong Sirikone : https://sulayman74.github.io/portfolio_Sirikone/index.html
+
 ### Réseaux sociaux
-* X : @SirikoneK
+* X : https://twitter.com/SirikoneK
 * Linkedin : https://www.linkedin.com/in/sirikone-keohavong
 * Gitlab : https://gitlab.com/Sulayman74
